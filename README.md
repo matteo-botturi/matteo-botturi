@@ -1,11 +1,8 @@
-<h1 align="center"> 
-  <a href="https://github.com/matteo-botturi">
-    <img src="https://via.placeholder.com/400x150.png?text=Matteo+Botturi" alt="Matteo Botturi" width="40%"/>
-  </a> 
-</h1>
-    
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&duration=6000&pause=1000&color=335384&center=true&vCenter=true&random=false&width=480&lines=Full-Stack+Developer+(Java+%26+Angular);Open+to+Alternance+(Bac+%2B5);Always+learning+new+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&duration=6000&pause=1000&color=335384&center=true&vCenter=true&width=500&lines=Matteo+Botturi;Full+Stack+Developer;Open+to+Alternance;Java+%7C+Spring+%7C+Angular" alt="Typing SVG" />
+</a>
+
 </p>
 
 <!-- Social icons section -->
@@ -68,19 +65,6 @@
 ![Microservices](https://img.shields.io/badge/Microservices-6DB33F.svg?logo=spring&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-000000.svg?logo=api&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2496ED.svg?logo=agile&logoColor=white)
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=matteo-botturi&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-botturi&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IlTuoNomeUtente&color=brightgreen" alt="Profile views" />
-</p>
-
 
 <!--
 **matteo-botturi/matteo-botturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
